@@ -1,0 +1,7 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: D:/ActiveHDL_Projects/Project_Move_Forward/E2/src/main.vhd" 
+MESSAGE "Compile Entity "filter_tb"" 
+MESSAGE "Compile Architecture "filter_tb" of Entity "filter_tb"" 
+MESSAGE "Compile Entity "DataPath"" 
+MESSAGE "Compile Architecture "Behavior" of Entity "DataPath"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]" 

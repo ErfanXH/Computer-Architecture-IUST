@@ -1,0 +1,77 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=E2
+[Library]
+E2=.\E2\E2.lib
+[$LibMap$]
+E2=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/main.vhd=-1
+/test1.asdb=-1
+/test1.awc=-1
+TestBench/datapath_TB.vhd=-1
+TestBench/datapath_TB_runtest.do=-1
+TestBench/datapath_TB_new.vhd=-1
+TestBench/datapath_TB_new_runtest.do=-1
+[Files.Data]
+.\src\main.vhd=VHDL Source Code
+.\src\test1.asdb=Accelerated Waveform File
+.\src\test1.awc=Accelerated Waveform Configuration
+.\src\TestBench\datapath_TB.vhd=VHDL Test Bench
+.\src\TestBench\datapath_TB_runtest.do=Macro
+.\src\TestBench\datapath_TB_new.vhd=VHDL Test Bench
+.\src\TestBench\datapath_TB_new_runtest.do=Macro
+[Groups]
+TestBench=1
+[HierarchyViewer]
+HierarchyInformation=datapath_tb|TB_ARCHITECTURE|0 datapath_tb_new|TB_ARCHITECTURE_new|0
+ShowHide=ShowTopLevel
+Selected=
+[folders]
+name0=ALINT-PRO Workspaces
+directory0=d:\ActiveHDL_Projects\Project_Move_Forward\E2\
+extension0=alintws
+name1=Coverage Databases
+directory1=d:\ActiveHDL_Projects\Project_Move_Forward\E2\
+extension1=acdb
+name2=Dll Libraries
+directory2=d:\ActiveHDL_Projects\Project_Move_Forward\E2\
+extension2=dll
+name3=Event Lists
+directory3=d:\ActiveHDL_Projects\Project_Move_Forward\E2\
+extension3=lst
+name4=HTML Files
+directory4=d:\ActiveHDL_Projects\Project_Move_Forward\E2\
+extension4=htm;html
+name5=Log Files
+directory5=d:\ActiveHDL_Projects\Project_Move_Forward\E2\
+extension5=log;htm;xml;txt
+name6=Matlab/Simulink Files
+directory6=d:\ActiveHDL_Projects\Final\
+extension6=m;mdl;slx
+name7=Memory Files
+directory7=d:\ActiveHDL_Projects\Project_Move_Forward\E2\
+extension7=mem;mif;hex
+name8=PDF Files
+directory8=d:\ActiveHDL_Projects\Project_Move_Forward\E2\
+extension8=pdf
+name9=Profiler Databases
+directory9=d:\ActiveHDL_Projects\Project_Move_Forward\E2\
+extension9=tbp
+name10=Script Files
+directory10=d:\ActiveHDL_Projects\Project_Move_Forward\E2\
+extension10=do;tcl;pl
+name11=Waveform Files
+directory11=d:\ActiveHDL_Projects\Project_Move_Forward\E2\
+extension11=asdb;awc;asdbc;asdbe

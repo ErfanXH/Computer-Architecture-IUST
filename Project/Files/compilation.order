@@ -1,0 +1,3 @@
+.\src\main.vhd
+.\src\TestBench\datapath_TB.vhd
+.\src\TestBench\datapath_TB_new.vhd

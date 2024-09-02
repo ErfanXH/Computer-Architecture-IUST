@@ -1,0 +1,12 @@
+[Version]
+Version=13.0
+[Designs]
+e2=.\E2\E2.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+e2=1

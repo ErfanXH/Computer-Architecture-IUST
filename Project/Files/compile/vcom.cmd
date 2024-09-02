@@ -1,0 +1,1 @@
+-w -erf D:/ActiveHDL_Projects/Project_Move_Forward/E2/compile/E2.erf -d D:/ActiveHDL_Projects/Project_Move_Forward/E2/compile -s D:/ActiveHDL_Projects/Project_Move_Forward/library.cfg -j D:/ActiveHDL_Projects/Project_Move_Forward/E2/projlib.cfg -work E2 -O3 -e 100 -work E2 -2019 D:/ActiveHDL_Projects/Project_Move_Forward/E2/src/main.vhd 
